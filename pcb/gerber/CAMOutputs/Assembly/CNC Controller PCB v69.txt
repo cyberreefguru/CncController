@@ -1,0 +1,46 @@
+Partlist exported from Team Hub: The Guru   Project: Projects  Board: CNC Controller PCB v69 at 3/29/21 11:34 AM
+
+Qty Value        Device                       Package                       Parts         Description                                                    NAME
+1                MCP23017_EXPANSION_BOARDDOWN MCP23017_EXPANSION_BOARD_DOWN U1            Eagle CAD device for the Waveshare MCP23017 IO expansion board     
+1                PINHD-1X6                    1X06                          JP16          PIN HEADER                                                         
+1   4.7K         RESISTOR_TH0207/2V           0207/2V                       R1            RESISTOR, American symbol                                          
+1   F1_SP        PINHD-1X1                    1X01                          FAN1_SPEED    PIN HEADER                                                         
+1   F2_SP        PINHD-1X1                    1X01                          JP7           PIN HEADER                                                         
+1   FAN1         PINHD-1X4                    1X04                          JP17          PIN HEADER                                                         
+1   FAN2         PINHD-1X4                    1X04                          JP18          PIN HEADER                                                         
+1   FHI_LOGO     FHI_LOGO                     FHI_LOGO                      U$2           Fishhead Industries Logo                                           
+3   FIDUCIAL1X2  FIDUCIAL1X2                  FIDUCIAL-1X2                  FD1, FD2, FD3 Fiducial Alignment Points                                          
+1   IO15         PINHD-1X1                    1X01                          JP22          PIN HEADER                                                         
+1   IO18         PINHD-1X1                    1X01                          JP28          PIN HEADER                                                         
+1   IO19         PINHD-1X1                    1X01                          JP5           PIN HEADER                                                         
+1   IO23         PINHD-1X1                    1X01                          JP6           PIN HEADER                                                         
+1   IO32         PINHD-1X1                    1X01                          JP1           PIN HEADER                                                         
+1   IO33         PINHD-1X1                    1X01                          JP2           PIN HEADER                                                         
+1   IO5          PINHD-1X1                    1X01                          JP29          PIN HEADER                                                         
+1   LED1         AK550/2                      AK550/2                       PA1           PCB mount connector; 3.5mm pitch.                                  
+1   LED2         AK550/2                      AK550/2                       PA3           PCB mount connector; 3.5mm pitch.                                  
+1   LED3         AK550/2                      AK550/2                       PA5           PCB mount connector; 3.5mm pitch.                                  
+1   LED4         AK550/2                      AK550/2                       PA7           PCB mount connector; 3.5mm pitch.                                  
+1   OSHW-LOGOL   OSHW-LOGOL                   OSHW-LOGO-L                   LOGO1         Open-Source Hardware (OSHW) Logo                                   
+1   PB6          AK550/2                      AK550/2                       PB6           PCB mount connector; 3.5mm pitch.                                  
+1   PB7          AK550/2                      AK550/2                       PB7           PCB mount connector; 3.5mm pitch.                                  
+1   PWR_SEL      PINHD-1X3                    1X03                          JP15          PIN HEADER                                                         
+1   RESET        PINHD-1X1                    1X01                          JP32          PIN HEADER                                                         
+1   SSR1         AK550/2                      AK550/2                       PB2           PCB mount connector; 3.5mm pitch.                                  
+1   SSR2         AK550/2                      AK550/2                       PB3           PCB mount connector; 3.5mm pitch.                                  
+1   SSR3         AK550/2                      AK550/2                       PB4           PCB mount connector; 3.5mm pitch.                                  
+1   SSR4         AK550/2                      AK550/2                       PB5           PCB mount connector; 3.5mm pitch.                                  
+1   SW1          AK550/2                      AK550/2                       PA0           PCB mount connector; 3.5mm pitch.                                  
+1   SW2          AK550/2                      AK550/2                       PA2           PCB mount connector; 3.5mm pitch.                                  
+1   SW3          AK550/2                      AK550/2                       PA4           PCB mount connector; 3.5mm pitch.                                  
+1   SW4          AK550/2                      AK550/2                       PA6           PCB mount connector; 3.5mm pitch.                                  
+1   TEMP1        PINHD-1X3                    1X03                          JP11          PIN HEADER                                                         
+1   TEMP2        PINHD-1X3                    1X03                          JP12          PIN HEADER                                                         
+1   TEMP3        PINHD-1X3                    1X03                          JP13          PIN HEADER                                                         
+1   TEMP4        PINHD-1X3                    1X03                          JP14          PIN HEADER                                                         
+1   TIN          AK550/2                      AK550/2                       PB0           PCB mount connector; 3.5mm pitch.                                  
+1   TINY_PICO_V2 TINY_PICO_V2                 TINY_PICO_V2                  U$1                                                                              
+1   TLED         AK550/2                      AK550/2                       PB1           PCB mount connector; 3.5mm pitch.                                  
+1   V3.3         AK550/2                      AK550/2                       POWER_V33     PCB mount connector; 3.5mm pitch.                                  
+1   V5           AK550/2                      AK550/2                       POWER_V5      PCB mount connector; 3.5mm pitch.                                  
+1   VBAT         PINHD-1X1                    1X01                          JP25          PIN HEADER                                                         
